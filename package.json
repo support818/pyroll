@@ -1,0 +1,13 @@
+{
+  "name": "payroll-web",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "14",
+    "react": "18",
+    "react-dom": "18",
+    "@supabase/supabase-js": "2"
+  }
+}
